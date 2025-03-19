@@ -1,0 +1,73 @@
+---
+title: "Day 1 note"
+format:
+  html:
+    code-fold: true
+
+---
+## syllabus introduction
+  - Tcp ip
+  - how nodes are connected
+  - ipv4 ipv6
+  - tcp udp
+  - ccna
+  - ethernet
+
+## unit one
+  - computer network
+  - switch and routers
+  - advantages application
+    - file sharing
+    - resource sharing
+    - inexpensive setup
+    - flexible handling
+    - increase storage capacity
+  - demerits
+    - security concerns
+    - virus and malware
+    - lack of robustness
+    - needs an efficient handler
+  - business application
+    - resource sharing
+    - vpm
+    - VOIP
+    - desktop sharing
+    - internet access
+    - online news
+    - digital library
+    - security systems
+    - gaming
+    - m- commerse
+    - GPS
+    - sensor network
+  - application fields
+   - explain in exam
+  - network models
+    - PAN
+    - LAN
+    - CAN
+    - MAN
+    - WAN
+  - Topological models
+    - Bus
+    - ring
+    - star
+    - extended star
+    - heirarchical
+    - mesh 
+  - simplex
+  - duplex 
+    - half duplex
+    - full duplex
+
+
+      
+
+
+
+
+
+
+
+
+
