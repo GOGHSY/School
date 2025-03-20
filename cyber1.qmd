@@ -3,6 +3,9 @@ title: "Day 1 note"
 format:
   html:
     code-fold: true
+project:
+  type: website
+  output-dir: docs
 
 ---
 ## syllabus introduction
@@ -87,6 +90,7 @@ format:
       - not used anymore
       - seven layers 
         - application   |          |
+          - Provides network access
         - Presentation  |          |
          - Session      |          |
         - Transport     |          |
@@ -95,5 +99,4 @@ format:
         - Physical      | Physical |
     - TCP,IP
   - Port numbers for popular sites 
-
-
+  -
