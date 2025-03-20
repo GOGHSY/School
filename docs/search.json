@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "cyber1.html",
+    "href": "cyber1.html",
+    "title": "Day 1 note",
+    "section": "",
+    "text": "Tcp ip\nhow nodes are connected\nipv4 ipv6\ntcp udp\nccna\nethernet ## Unit 1 ## Day1\ncomputer network\nswitch and routers\nadvantages application\n\nfile sharing\nresource sharing\ninexpensive setup\nflexible handling\nincrease storage capacity\n\ndemerits\n\nsecurity concerns\nvirus and malware\nlack of robustness\nneeds an efficient handler\n\nbusiness application\n\nresource sharing\nvpm\nVOIP\ndesktop sharing\ninternet access\nonline news\ndigital library\nsecurity systems\ngaming\nm- commerse\nGPS\nsensor network\n\napplication fields\nexplain in exam\nnetwork models\n\nPAN\nLAN\nCAN\nMAN\nWAN\n\nTopological models\n\nBus\nring\nstar\nextended star\nheirarchical\nmesh\n\nsimplex\nduplex\n\nhalf duplex\nfull duplex ## Day2\n\nmodels\n\npeer to peer modelsa\nclient server model\n\nflexibility\nless cost\ncentral control\nimproved netwoek\noptimum resource utilization\n\nactive network models\n\ncan change network operation dynamically"
+  },
+  {
+    "objectID": "cyber1.html#syllabus-introduction",
+    "href": "cyber1.html#syllabus-introduction",
+    "title": "Day 1 note",
+    "section": "",
+    "text": "Tcp ip\nhow nodes are connected\nipv4 ipv6\ntcp udp\nccna\nethernet ## Unit 1 ## Day1\ncomputer network\nswitch and routers\nadvantages application\n\nfile sharing\nresource sharing\ninexpensive setup\nflexible handling\nincrease storage capacity\n\ndemerits\n\nsecurity concerns\nvirus and malware\nlack of robustness\nneeds an efficient handler\n\nbusiness application\n\nresource sharing\nvpm\nVOIP\ndesktop sharing\ninternet access\nonline news\ndigital library\nsecurity systems\ngaming\nm- commerse\nGPS\nsensor network\n\napplication fields\nexplain in exam\nnetwork models\n\nPAN\nLAN\nCAN\nMAN\nWAN\n\nTopological models\n\nBus\nring\nstar\nextended star\nheirarchical\nmesh\n\nsimplex\nduplex\n\nhalf duplex\nfull duplex ## Day2\n\nmodels\n\npeer to peer modelsa\nclient server model\n\nflexibility\nless cost\ncentral control\nimproved netwoek\noptimum resource utilization\n\nactive network models\n\ncan change network operation dynamically"
+  },
+  {
+    "objectID": "cyber1.html#unit-2",
+    "href": "cyber1.html#unit-2",
+    "title": "Day 1 note",
+    "section": "Unit 2",
+    "text": "Unit 2\n\nProtocols ,standards, interface and services\nstandards:\n\nDe Facto\n\nBy fact or by convention\nNot approved by organizations but are adopted by them because of their wide use\n\nDe Jure\n\napproved by official bodies\nSMTP, UDP, TCP, IP\n\nReference models\n\nOSI(https://networkdirection.net/articles/network-theory/osimodel/)\n\nnot used anymore\nseven layers\n\napplication | |\n\nProvides network access\n\nPresentation | |\nSession | |\nTransport | |\nNetwork | Physical |\nData Link | Physical |\nPhysical | Physical |\n\n\nTCP,IP\n\nPort numbers for popular sites"
+  }
+]
