@@ -12,8 +12,8 @@ format:
   - tcp udp
   - ccna
   - ethernet
-
-## unit one
+## Unit 1
+## Day1
   - computer network
   - switch and routers
   - advantages application
@@ -59,15 +59,41 @@ format:
   - duplex 
     - half duplex
     - full duplex
+## Day2
+  - models
+    - peer to peer modelsa
+    - client server model 
+      - flexibility
+      - less cost
+      - central control
+      - improved netwoek
+      - optimum resource utilization
 
+    - active network models
+      - can change network operation dynamically
+  
+## Unit 2
+  - Protocols ,standards, interface and services
+- standards:
+  - De Facto 
+    - By fact or by convention
+    - Not approved by organizations but are adopted by them because of their wide use
 
-      
-
-
-
-
-
-
-
+  - De Jure
+    - approved by official bodies
+    - SMTP, UDP, TCP, IP
+  - Reference models
+    - OSI(https://networkdirection.net/articles/network-theory/osimodel/)
+      - not used anymore
+      - seven layers 
+        - application   |          |
+        - Presentation  |          |
+         - Session      |          |
+        - Transport     |          |
+        - Network       | Physical |
+        - Data Link     | Physical |
+        - Physical      | Physical |
+    - TCP,IP
+  - Port numbers for popular sites 
 
 
