@@ -18,6 +18,6 @@
     "href": "cyber1.html#unit-2",
     "title": "Day 1 note",
     "section": "Unit 2",
-    "text": "Unit 2\n\nProtocols ,standards, interface and services\nstandards:\n\nDe Facto\n\nBy fact or by convention\nNot approved by organizations but are adopted by them because of their wide use\n\nDe Jure\n\napproved by official bodies\nSMTP, UDP, TCP, IP\n\nReference models\n\nOSI(https://networkdirection.net/articles/network-theory/osimodel/)\n\nnot used anymore\nseven layers\n\napplication | |\n\nProvides network access\n\nPresentation | |\nSession | |\nTransport | |\nNetwork | Physical |\nData Link | Physical |\nPhysical | Physical |\n\n\nTCP,IP\n\nPort numbers for popular sites"
+    "text": "Unit 2\n\nProtocols ,standards, interface and services\nstandards:\n\nDe Facto\n\nBy fact or by convention\nNot approved by organizations but are adopted by them because of their wide use\n\nDe Jure\n\napproved by official bodies\nSMTP, UDP, TCP, IP\n\nReference models\n\nOSI(https://networkdirection.net/articles/network-theory/osimodel/)\n\nnot used anymore\nseven layers\n\napplication | |\n\nProvides network access\n\nPresentation | |\nSession | |\nTransport | |\nNetwork | Physical |\nData Link | Physical |\nPhysical | Physical |\n\n\nTCP,IP\n\nPort numbers for popular sites\n\n\nprint(\"hello world\")"
   }
 ]

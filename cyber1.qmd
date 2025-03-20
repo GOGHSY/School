@@ -6,7 +6,7 @@ format:
 project:
   type: website
   output-dir: docs
-
+jupyter: python3
 ---
 ## syllabus introduction
   - Tcp ip
@@ -100,3 +100,6 @@ project:
     - TCP,IP
   - Port numbers for popular sites 
   -
+  ```{python3}
+  print("hello world")
+  ```
